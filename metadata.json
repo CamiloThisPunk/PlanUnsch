@@ -1,0 +1,5 @@
+{
+  "name": "PlanUNSCH",
+  "description": "An application for university students to organize their semester. Users can upload their course syllabi, and the app uses AI to automatically extract academic events and populate a unified calendar.",
+  "requestFramePermissions": []
+}
